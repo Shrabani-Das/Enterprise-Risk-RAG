@@ -223,8 +223,6 @@ __marimo__/
 # Virtual Environment
 venv/
 
-# Vector Database
-vectorstore/
 
 # Python
 __pycache__/
