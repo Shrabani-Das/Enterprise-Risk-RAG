@@ -18,8 +18,7 @@ Basel III • IFRS • RBI • LangChain • FAISS • Sentence Transformers •
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-orange?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-[![Status](https://img.shields.io/badge/Status-Work in Progress-yellow.svg)]()
-
+![Status](https://img.shields.io/badge/Status-Work%20In%20Progress-yellow?style=for-the-badge)
 
 </div>
 
