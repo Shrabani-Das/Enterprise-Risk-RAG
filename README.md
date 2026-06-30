@@ -7,11 +7,18 @@
 
 Basel III • IFRS • RBI • LangChain • FAISS • Sentence Transformers • Groq • Streamlit
 
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)]
-[![LangChain](https://img.shields.io/badge/LangChain-RAG-green?style=for-the-badge)]
-[![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-orange?style=for-the-badge)]
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit)]
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)]
+### 🌐 Live Demo
+🔗 **https://enterprise-risk-rag-kss7m8mpjken3stwbxzmeq.streamlit.app/**
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Launch%20App-Live-success?style=for-the-badge)](https://enterprise-risk-rag-kss7m8mpjken3stwbxzmeq.streamlit.app/)
+
+
+
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-green?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-orange?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 </div>
 
@@ -186,7 +193,7 @@ streamlit run app.py
 
 ✅ Prompt Engineering
 
-✅ Hallucination Reduction
+<!-- ✅ Hallucination Reduction -->
 
 ✅ Production-style Modular Architecture
 
@@ -194,8 +201,6 @@ streamlit run app.py
 
 # 📈 Future Enhancements
 
-- Hybrid Retrieval (BM25 + Dense Retrieval)
-- Cross-Encoder Re-ranking
 - Multi-Document QA
 - Conversation Memory
 - Regulatory Change Monitoring
@@ -210,8 +215,6 @@ streamlit run app.py
 **Shrabani Das**
 
 Data Scientist | Credit Risk Analytics | LLM & RAG | Financial AI
-
-LinkedIn • GitHub
 
 ---
 
