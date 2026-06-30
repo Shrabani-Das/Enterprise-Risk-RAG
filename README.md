@@ -8,7 +8,6 @@
 Basel III • IFRS • RBI • LangChain • FAISS • Sentence Transformers • Groq • Streamlit
 
 ### 🌐 Live Demo
-🔗 **https://enterprise-risk-rag-kss7m8mpjken3stwbxzmeq.streamlit.app/**
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Launch%20App-Live-success?style=for-the-badge)](https://enterprise-risk-rag-kss7m8mpjken3stwbxzmeq.streamlit.app/)
 
@@ -26,9 +25,9 @@ Basel III • IFRS • RBI • LangChain • FAISS • Sentence Transformers •
 
 # 📌 Overview
 
-Enterprise Risk RAG is a production-style Retrieval-Augmented Generation (RAG) application designed for **banking and financial regulatory intelligence**.
+Enterprise Regulatory RAG is a production-style Retrieval-Augmented Generation (RAG) application designed for **banking and financial regulatory intelligence**.
 
-Instead of relying solely on an LLM, the system retrieves relevant regulatory context from **Basel III**, **IFRS**, and **RBI** documents before generating grounded, citation-backed responses.
+Instead of relying solely on an LLM, the system retrieves relevant regulatory context from **Basel III**, **IFRS** and **RBI** documents before generating grounded, citation-backed responses.
 
 ---
 
@@ -47,11 +46,14 @@ Instead of relying solely on an LLM, the system retrieves relevant regulatory co
 
 ---
 
-# 🏛 Regulatory Corpus
+## 📚 Regulatory Corpus
 
-- Basel III
-- IFRS
-- RBI Guidelines
+### Current
+- ✅ Basel III
+
+### Planned
+- 🔄 IFRS
+- 🔄 RBI Master Circulars & Guidelines
 
 ---
 
